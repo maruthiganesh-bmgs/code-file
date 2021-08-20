@@ -1,0 +1,62 @@
+.logo{
+    color:red;
+    background-color: white;
+    height:60px;
+    width: 60px;
+    text-align: center;
+    border-radius:40px;
+    font-size:50px;
+    margin-left: 147px;
+}
+.alignment{
+    position:absolute;
+    top: 25%;
+    left: 35%;
+    
+}
+.account{
+    position: absolute;
+    top: 5%;
+    left: 89%;
+    
+}
+.heading{
+    color: white;
+    font-size: 25px;
+}
+.select{
+    color: white;
+    margin-left: 72px;
+    font-size: 17px;
+}
+.items{
+    display: inline-block;
+    width: 320px;
+    height: 100px;
+    margin: 20px;
+   }
+
+.row{
+        text-align:center;
+        
+}
+.imageright{
+    display:inline-block;
+    width:150px;
+    text-align:left;
+    
+}
+.textleft{
+    display:inline-block;
+    color:rgb(15, 15, 15);
+    width:130px;
+    min-height: auto;
+    text-align:left;
+
+}
+.heading-body{
+    font-size: 10px;
+    margin-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
